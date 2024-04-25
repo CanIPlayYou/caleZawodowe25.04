@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">imageview</string>
+    <string name="editText1">Podaj swoje imie: </string>
+    <string name="buttonText1">Prześlij</string>
+    <string name="textViewWynik">Wynik: </string>
+</resources>

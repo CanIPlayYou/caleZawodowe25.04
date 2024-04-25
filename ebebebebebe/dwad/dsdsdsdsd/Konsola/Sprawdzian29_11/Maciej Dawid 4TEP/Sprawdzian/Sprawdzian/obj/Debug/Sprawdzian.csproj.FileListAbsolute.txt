@@ -1,0 +1,7 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.exe.config
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Sprawdzian29_11\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.pdb

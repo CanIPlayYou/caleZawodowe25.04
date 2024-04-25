@@ -1,0 +1,97 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Garamond;
+}
+
+.goraLewa{
+  background-color: #00600F;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  height: 90px;
+}
+
+.goraPrawa{
+  position: fixed;
+  background-color: #00600F;
+  color: white;
+  width: 25%;
+  height: 90px;
+  padding-left: 20px;
+  left: 1150px;
+  display: flex;
+  align-items: center;
+}
+
+#glowny{
+  background-color: #C8E6C9;
+  height: 600px;
+  width: 100%;
+  overflow-y: scroll;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 0px;
+  top: 90px;
+}
+
+.items{
+  color: black;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.stopka{
+  position: fixed;
+  background-color: #00600F;
+  color: white;
+  width: 101.05%;
+  height: 50px;
+  top: 690px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h5{
+  background-color: #00600F;
+  color: white;
+  font-size: 200%;
+  text-align: center;
+  margin: 0px;
+}
+
+h2{
+  text-align: right;
+}
+
+.data{
+  margin: 10px;
+  border: 1px solid #00600F;
+  width: 300px;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #a7c9a9; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #7da17f; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5d825f; 
+}

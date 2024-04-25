@@ -1,0 +1,7 @@
+Android SDK: (SDK to coś co pobieramy jakby)
+ - Platforma SDK,
+ - Dokumentacja,
+ - Wsparcie dla androida,
+ - Narzędzia SDK,
+ - Aplikacje przykładowe,
+ - Płatności Google Play,

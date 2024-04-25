@@ -1,0 +1,7 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\bin\Debug\Kolejka.exe.config
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\bin\Debug\Kolejka.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\bin\Debug\Kolejka.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\obj\Debug\Kolejka.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\obj\Debug\Kolejka.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\obj\Debug\Kolejka.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Kolejka\Kolejka\Kolejka\obj\Debug\Kolejka.pdb

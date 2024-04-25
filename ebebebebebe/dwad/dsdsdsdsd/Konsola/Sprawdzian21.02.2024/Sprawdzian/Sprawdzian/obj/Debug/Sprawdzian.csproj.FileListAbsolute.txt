@@ -1,0 +1,7 @@
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.exe.config
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.exe
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.pdb
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.exe
+C:\Users\4TEP\Desktop\Zadania\WsztystkoZZawodowych\enenen\Konsola\Sprawdzian21.02.2024\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.pdb

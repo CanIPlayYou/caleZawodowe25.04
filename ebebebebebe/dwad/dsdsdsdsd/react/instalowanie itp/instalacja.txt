@@ -1,0 +1,6 @@
+npm install -g create-react-app
+
+
+npx create-react-app nazwa-aplikacji
+cd nazwa-aplikacji
+npm start

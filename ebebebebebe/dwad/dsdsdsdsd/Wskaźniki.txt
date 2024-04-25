@@ -1,0 +1,21 @@
+Wskaźniki:
+
+Wskaźniki w języku programowania C# są zaawansowanymi elementami które, umożliwiają bezpośredni dostęp do pamięci komputera.
+Wskaźniki pozwalają programisćie na manipulajce bezpośrednim adresem pamięci
+
+	1. Wskaźniki w C#:
+	    -Wskaźnik to zmienne, które przechowują adresy pamięci
+	    -Dostęp do pamięci przy użyciu wskaźników jest bardziej zaawansowane i wamaga ostrożności ze względu na potencjalne problemy
+	     związane z niepoprawnym odwoływaniem się do pamięci
+	    -Wskaźniki są często używane do manipulacji tablicami, obsługi buforów i osadzania typów wartośi w strukturach danych
+
+	2. Operator "*" (gwiazdka):
+	  -Stabilizacja lokalizacji pamięci:
+		-Słowo kluczowe fixed stabilizuje lokalizacje pamięci tablicy, co oznacza, że nie będzie przenoszona podczas procesu
+		 garbage collection
+		-Jest to konieczne, ponieważ wskaźniki do elementów tablicy mogą być używane tylko wtedy, gdy lokalizacja pamięci tablicy
+		 jest stała
+	  
+	  -Użycie wskaźników:
+		-Po użyciu fixed, możesz użyć wskaźników do bezpośredniego dostępu do elementów tablicy w określonej lokalizacji pamięci.
+		-W przykładzie, który podałeś, int* ptr

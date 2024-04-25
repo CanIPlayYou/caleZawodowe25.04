@@ -1,0 +1,10 @@
+Opracuj pytania z przykładami(c++):
+
+1. Na czym polega mechanizm dziedziczenia, jakie sa korzyści wynikające z zastosowania dziedziczenia (przykład: kod ktory pokazuje mechanizm dziedzicznia, a drugi pokazuje niekorzystanie z dziedziczenia)
+2. Wyjaśnij pojęcie klasa bazowa, klasa pochodna
+3. Co to jest łancuch dziedziczenia
+4. Wymień i scharakteryzuj tryby (rodzaje) dziedziczenia uwzględniając tryb dostępu do elementów członkowskich klas pochodnych
+5. Na czym polega dziedziczenie hierarchiczne, a na czym dziedziczenie wielokrotne
+6. Wyjaśnij rodzaje dziedziczenia: dziedziczenie pojedyńcze, dziedziczenie wielokrotne, dziedziczenie hierarchiczne, dziedziczenie wielopoziomowe, dziedziecznie mieszane
+
+i do projektu z dziedziczeniem dodac konstruktory

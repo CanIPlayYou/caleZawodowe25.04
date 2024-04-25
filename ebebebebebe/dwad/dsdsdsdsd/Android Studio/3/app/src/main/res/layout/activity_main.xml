@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="324dp"
+        android:layout_height="60dp"
+        android:layout_gravity="left"
+        android:ems="10"
+        android:hint="Nowy element"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_gravity="right"
+        android:backgroundTint="#DC143C"
+        android:text="Dodaj"
+        android:translationX="0dp"
+        android:translationY="-64dp"
+        app:cornerRadius="0dp" />
+
+    <ListView
+        android:id="@+id/list_item"
+        android:layout_width="match_parent"
+        android:layout_height="648dp"
+        android:layout_gravity="center"
+        android:translationY="-40dp" />
+
+
+
+</LinearLayout>

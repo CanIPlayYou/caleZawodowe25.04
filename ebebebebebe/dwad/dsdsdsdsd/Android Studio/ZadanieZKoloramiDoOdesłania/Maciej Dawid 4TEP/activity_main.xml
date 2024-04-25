@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="138dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:text="Wygeneruj kolor" />
+
+    <SeekBar
+        android:id="@+id/seekBarR"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:max="255" />
+
+    <SeekBar
+        android:id="@+id/seekBarG"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:max="255" />
+
+    <SeekBar
+        android:id="@+id/seekBarB"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:max="255" />
+
+    <TextView
+        android:id="@+id/textViewColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Kolor: "
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="138dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:text="Zapisz kolor"
+        android:layout_marginTop="10dp"/>
+
+    <ListView
+        android:id="@+id/list_item"
+        android:layout_width="match_parent"
+        android:layout_height="653dp"
+        android:layout_gravity="center"
+        android:translationY="10dp"/>
+
+
+</LinearLayout>

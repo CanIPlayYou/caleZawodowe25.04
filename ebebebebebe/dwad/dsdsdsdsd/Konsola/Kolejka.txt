@@ -1,0 +1,4 @@
+Liniowa struktura uporzadkowanych danych realizująca założenie FIF0 (First In, First Out). Elementy dodawane są na końcu struktury,
+ale pobierane z jej początku.
+
+W większości implementacji za dodawanie elementu odpowiedzialna jest operacja enqueue, a za pobieranie operacja dequeue

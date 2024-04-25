@@ -1,0 +1,4 @@
+Opracowane tematy w dokumencie:
+
+1. Zasada działania konstruktorów w języku c++, wraz z przykładami
+2. Zastosowanie i działanie konstruktorów z parametrami, wraz z przykładami (Konstruktor domyślny i kopiujący cos tam też z nimi zawrzeć)

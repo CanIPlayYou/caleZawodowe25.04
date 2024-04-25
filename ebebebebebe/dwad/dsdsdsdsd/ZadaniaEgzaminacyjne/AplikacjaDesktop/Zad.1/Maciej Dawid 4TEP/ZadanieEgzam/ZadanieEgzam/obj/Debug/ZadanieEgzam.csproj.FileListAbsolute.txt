@@ -1,0 +1,15 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\bin\Debug\ZadanieEgzam.exe.config
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\bin\Debug\ZadanieEgzam.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\bin\Debug\ZadanieEgzam.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\MainWindow.g.cs
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\App.g.cs
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam_MarkupCompile.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam_MarkupCompile.lref
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\MainWindow.baml
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.g.resources
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.Properties.Resources.resources
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.csproj.GenerateResource.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\ZadaniaEgzaminacyjne\AplikacjaDesktop\Zad.1\ZadanieEgzam\ZadanieEgzam\obj\Debug\ZadanieEgzam.pdb

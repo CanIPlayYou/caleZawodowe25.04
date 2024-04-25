@@ -1,0 +1,8 @@
+QUIZ W REACT:
+
+format albo tekstowy albo obrazkowy,
+timer,
+pojawiajace sie okienko do wpisania nicku (okno modalne(to lepsza ocena) albo prompt),
+mozliwosc importu pytan w json(opcjonalne, wyzsza ocena),
+tablica wynikow,
+

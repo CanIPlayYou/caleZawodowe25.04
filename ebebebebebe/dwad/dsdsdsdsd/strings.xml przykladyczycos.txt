@@ -1,0 +1,14 @@
+strings.xml -
+
+do spinnera:
+	<string-array name="nazwa_tablicy_lancuchow">
+		<item>wartosc1</item>
+		<item>wartosc2</item>
+		<item>wartosc3</item>
+		...
+	</string-array>
+
+	odwołanie do tego:
+		"@string/nazwa_lancuha"
+
+		"@array/nazwa_tablicy"

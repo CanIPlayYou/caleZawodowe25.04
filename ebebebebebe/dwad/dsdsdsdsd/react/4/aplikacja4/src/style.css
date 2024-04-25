@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Box{
+    border: 2px dotted black;
+    height: 400px;
+    width: 310px;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.image{
+    border: 3px solid black;
+}
+
+.lang-list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.lang{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}

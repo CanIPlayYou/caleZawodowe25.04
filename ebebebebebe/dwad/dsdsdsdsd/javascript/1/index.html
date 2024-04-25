@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+
+    <body>
+        <script>
+            function findEverySecondElement(liczby){
+                let tab = []
+
+                for(let i = 1; i<liczby.lenght; i+=2){
+                    tab.push(liczby[i]);
+                }
+                return tab;
+            }
+            
+            console.log(findEverySecondElement([1]));
+            console.log(findEverySecondElement([]));
+            console.log(findEverySecondElement([1, 2]));
+            console.log(findEverySecondElement([1, 2, 3]));
+            console.log(findEverySecondElement([1, 6, 7, 8]));
+
+
+
+
+            const concat = (str1, str2) => `${str1} ${str2}`; //Funkcja strzałkowa
+
+            console.log(concat("Hi", "Dear"));
+            console.log(concat("Mike", 12));
+            console.log(concat("Uncle", "Bob"));
+            console.log(concat("1.", "One"));
+
+
+
+            const isPositiveEven = (liczba) => liczba % 2 == 0 && liczba > 0; //Funkcja strzałkowa
+
+            console.log(isPositiveEven(4));
+            console.log(isPositiveEven(7));
+            console.log(isPositiveEven(-2));
+
+
+
+            const isRaining = true;
+            const result = isRaining == true ? "Umbrella" : "Empty"; //Funkcja strzałkowa
+
+            console.log(result);
+
+
+
+            const isEvenOrOdd = (liczbaa) => liczbaa % 2 == 0 ? "Even" : "Odd"; //Funkcja strzałkowa
+
+            console.log(isEvenOrOdd(4));
+            console.log(isEvenOrOdd(7));
+            console.log(isEvenOrOdd(1));
+
+
+
+
+            //Mapowanie
+            const numbers = [1, 2, 3, 4, 5];
+
+            const multipliedNumbers = numbers.map((number) => {
+                return number * 2;
+            });
+
+
+
+
+
+
+            const tabb = [1, 2, 3, 4, 5]
+
+            const power = (tabb) =>{
+                return tabb.map((itemTab) => {
+                    return itemTab * itemTab;
+                });
+            }
+
+            console.log(power([3, 4]));
+
+
+
+
+            //Filtrowanie
+            const numberss = [1, 2, 3, 4, 5];
+
+            const evenNumbers = numberss.filter((numberrr) =>{
+                return numberrr % 2 == 0;
+            });
+
+            console.log(evenNumbers);
+
+
+            const numbersss = [-3, 3, 0, 1, -1, 5, 7, 2, -2];
+
+            const findPositive = numbersss.filter((numberrrr) =>{
+                return numberrrr > 0;
+            });
+
+            console.log(findPositive);
+
+
+
+
+
+            //Redukcja czy tam sumowanie
+            const tab_numbers = [1, 2, 3, 4, 5];
+
+            const sum = tab_numbers.reduce((accumulator, currentNumber) =>{
+                return accumulator + currentNumber;
+            });
+
+            console.log(sum);
+
+
+            const tab_numberss = [1, 2, 3];
+
+            const avg = tab_numberss.reduce((accumulatorr, currentNumberr) =>{
+                return accumulatorr + currentNumberr;
+
+            }) / tab_numberss.length;
+
+            console.log(avg);
+
+
+
+
+
+            //Propety Shorthand
+            const name = "John";
+            const age = 30;
+
+            const person = { name, age };
+            console.log(person);
+
+
+            //Destruktyzacja
+            const personn = { namee: "John", agee: 30};
+
+            const { namee, agee} = person;
+            console.log(name, age);
+
+
+
+
+            //Kopiowanie tablic
+            const tabb_numbers = [1, 2, 3];
+            const copiedNumbers = [...tabb_numbers];
+
+            console.log(copiedNumbers);
+
+            //Łaczenie tablic
+            const arr1 = [1, 2, 3];
+            const arr2 = [4, 5, 6];
+            const combined = [...arr1, ...arr2];
+
+            console.log(combined);
+
+
+
+            //inkrementowanie liczb z tablicy
+            const numbersssss = [1, 2, 3, 4, 5];
+
+            const incrementer = numbersssss.filter((numberrrrrr) =>{
+                return numberrrrrr+1;
+            });
+
+            console.log(incrementer);
+
+
+
+            //szukanie liczb ujemnych
+            const numberssss = [-3, 3, 0, 1, -1, 5, -4, 2, -2];
+
+            const findNegative = numberssss.filter((numberrrrr) =>{
+                return numberrrrr < 0;
+            });
+
+            console.log(findNegative);
+
+
+        </script>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+Krok 1 L:
+ Projektowanie układu
+  -Tworzenie układu aplikacji przy użyciu edytora układu w Android Studio
+
+
+Krok 2 D:
+ Deklarowanie widoków
+  - Deklarowanie widżetów i widoków utowrzonych w pliku XML
+
+
+Krok 3 F:
+ Dodawanie funkcji
+  - Tworzenie funkcji, obsługa zdarzeń kliknięcia, pobieranie danych od użytkownika
+
+
+Krok 4 T:
+ Uruchamianie i budowanie
+  - uruchamianie i testowanie aplikacji, ...

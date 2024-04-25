@@ -1,0 +1,6 @@
+Kolejność budowania aplikacji mobilnej:
+
+1. Układ,
+2. string.xml
+3. aktywność
+4. Nazwa klasy Javy (aplikacja)

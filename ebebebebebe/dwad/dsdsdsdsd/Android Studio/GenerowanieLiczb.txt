@@ -1,0 +1,16 @@
+import kotlin.random.Random
+
+///////
+///////
+///////
+
+val liczby = IntArray(10)
+
+  for (i in liczby.indices){
+     liczby[i] = Random.nextInt(1, 31) //Zimportować biblioteke Random z kotlina
+  }
+
+val textView:TextView = findViewById(R.id.textView1)
+
+val stringLiczby = liczby.joinToString(",")
+textView.text = "Wygenerowane liczby: $stringLiczby"

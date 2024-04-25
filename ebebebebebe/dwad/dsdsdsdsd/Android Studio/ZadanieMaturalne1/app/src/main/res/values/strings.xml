@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aplikacjaEgzam</string>
+    <string name="naglowek">Domek w górach</string>
+    <string name="polubieniaText">0 polubień</string>
+</resources>

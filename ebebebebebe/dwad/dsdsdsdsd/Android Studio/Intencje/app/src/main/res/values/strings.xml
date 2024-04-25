@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intencje</string>
+    <string name="buttonPrzeslijText">Prześlij</string>
+    <string name="tekstHintText">Tekst</string>
+    <string name="tekstWiadomosciText">Tekst wiadomosci</string>
+    <string name="trescText">Treść wiadomości</string>
+</resources>

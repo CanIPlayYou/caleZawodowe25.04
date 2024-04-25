@@ -1,0 +1,10 @@
+
+
+Plik Javy/Kotlina -> Kod bajtowy -> APK  <- Biblioteki oraz Zasoby
+                                     |
+                                     |
+                                     |
+                                     |
+                                     |
+                                     ,
+				  Emulator

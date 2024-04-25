@@ -1,0 +1,9 @@
+Sklep w WPF:
+
+- Wyswietlanie produktow
+- Produkt musi miec zdjecie, nazwe, stan na magazynie, cene
+- Możliwość dodawania nowych produktów
+- Możliwość sortowania po kategoriach
+- Możliwość usuwania
+- wirtualny koszyk
+- Import danych z json (Eksport tez)

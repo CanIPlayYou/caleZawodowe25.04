@@ -1,0 +1,7 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\bin\Debug\Stosy.exe.config
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\bin\Debug\Stosy.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\bin\Debug\Stosy.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\obj\Debug\Stosy.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\obj\Debug\Stosy.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\obj\Debug\Stosy.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Stosyczycos\Stosy\Stosy\obj\Debug\Stosy.pdb

@@ -1,0 +1,16 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\bin\Debug\zadanieFlagi.exe.config
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\bin\Debug\zadanieFlagi.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\bin\Debug\zadanieFlagi.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\MainWindow.g.cs
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\App.g.cs
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi_MarkupCompile.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi_MarkupCompile.lref
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\MainWindow.baml
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.g.resources
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.Properties.Resources.resources
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.csproj.GenerateResource.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\zadanieFlagi.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Aplikacje Desktop\Zadanie 2 QuizzZFlagami\zadanieFlagi\zadanieFlagi\obj\Debug\App.baml

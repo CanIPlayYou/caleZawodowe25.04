@@ -1,0 +1,4 @@
+aktywnosc1 wysyla intencje do aktywnosci2 w miedzy czasie przechodzi to przez androida ktory sprawdza poprawnosc intencji
+
+Tworzenie intencji:
+	Intent intent = new Intent(this, KlasaJakas.class);

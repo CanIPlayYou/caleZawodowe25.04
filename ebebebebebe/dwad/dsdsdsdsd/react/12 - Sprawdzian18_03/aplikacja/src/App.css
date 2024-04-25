@@ -1,0 +1,26 @@
+*{
+  background-color: gray;
+}
+
+input[type=text], input[type=number]{
+  width: 500px !important;
+}
+
+label{
+  color: white;
+}
+
+.form-group{
+  text-align: center;
+}
+
+select, option{
+  width: 500px !important;
+  background-color: white !important;
+}
+
+#d1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

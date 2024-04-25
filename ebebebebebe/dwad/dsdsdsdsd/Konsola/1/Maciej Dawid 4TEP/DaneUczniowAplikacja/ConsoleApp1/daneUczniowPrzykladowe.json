@@ -1,0 +1,74 @@
+[
+  {
+    "Imie": "Krzysztof",
+    "Nazwisko": "Ratajski",
+    "Klasa": "3A",
+    "Semestr": 1,
+    "Oceny": [ 4, 5, 3, 4, 5, 4, 5 ],
+    "Pesel": "80010212345",
+    "Zdjecie": "image1.png"
+  },
+  {
+    "Imie": "Sebastian",
+    "Nazwisko": "Białecki",
+    "Klasa": "2B",
+    "Semestr": 1,
+    "Oceny": [ 4, 3, 4, 5, 3, 4, 4 ],
+    "Pesel": "95021223456",
+    "Zdjecie": "image2.png"
+  },
+  {
+    "Imie": "Krzysztof",
+    "Nazwisko": "Kciuk",
+    "Klasa": "4C",
+    "Semestr": 2,
+    "Oceny": [ 5, 5, 4, 4, 3, 5, 5 ],
+    "Pesel": "88031234567",
+    "Zdjecie": "image3.png"
+  },
+  {
+    "Imie": "Radosław",
+    "Nazwisko": "Szagański",
+    "Klasa": "3A",
+    "Semestr": 2,
+    "Oceny": [ 3, 4, 4, 3, 2, 3, 4 ],
+    "Pesel": "87050245678",
+    "Zdjecie": "image4.png"
+  },
+  {
+    "Imie": "Łukasz",
+    "Nazwisko": "Wacławski",
+    "Klasa": "2B",
+    "Semestr": 1,
+    "Oceny": [ 5, 5, 5, 4, 4, 5, 4 ],
+    "Pesel": "91122156789",
+    "Zdjecie": "image5.png"
+  },
+  {
+    "Imie": "Sebastian",
+    "Nazwisko": "Steyer",
+    "Klasa": "4C",
+    "Semestr": 2,
+    "Oceny": [ 3, 2, 3, 2, 3, 4, 2 ],
+    "Pesel": "90040267890",
+    "Zdjecie": "image6.png"
+  },
+  {
+    "Imie": "Tytus",
+    "Nazwisko": "Kanik",
+    "Klasa": "3A",
+    "Semestr": 2,
+    "Oceny": [ 4, 3, 5, 5, 4, 4, 3 ],
+    "Pesel": "95050378901",
+    "Zdjecie": "image7.png"
+  },
+  {
+    "Imie": "William",
+    "Nazwisko": "Borland",
+    "Klasa": "2B",
+    "Semestr": 1,
+    "Oceny": [ 4, 3, 3, 4, 4, 3, 4 ],
+    "Pesel": "89060489012",
+    "Zdjecie": "image8.png"
+  }
+]

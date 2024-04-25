@@ -1,0 +1,17 @@
+Temat: Proces tworzenia programu:
+
+1. Określenie przeznaczenia programu
+	Krok 1: Pobranie danych wejściowych,
+	Krok 2: Przetworzenie otrzymanych danych wejściowych,
+	Krok 3: Wygrenerowanie danych wyjściowych.
+
+2. Graficzny projekt programu
+
+3. Zaprojektowanie logiki programu
+	- Schemat blokowy lub pseudokod
+
+4. Utworzenie kodu źródłowego
+
+5. Usunięcie błędów składni
+
+6. Przetestowanie programu i usunięcie błędów logicznych

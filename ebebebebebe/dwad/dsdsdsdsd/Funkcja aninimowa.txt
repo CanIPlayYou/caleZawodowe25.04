@@ -1,0 +1,1 @@
+Funkcja anonimowa to taka funkcja, która nie ma swojej nazwy. Funkcje

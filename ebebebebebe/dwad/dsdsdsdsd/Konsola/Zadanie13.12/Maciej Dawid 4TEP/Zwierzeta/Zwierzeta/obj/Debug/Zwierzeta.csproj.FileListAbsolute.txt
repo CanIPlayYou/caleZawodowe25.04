@@ -1,0 +1,7 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\bin\Debug\Zwierzeta.exe.config
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\bin\Debug\Zwierzeta.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\bin\Debug\Zwierzeta.pdb
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.csproj.CoreCompileInputs.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.exe
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\Zadanie13.12\Zwierzeta\Zwierzeta\obj\Debug\Zwierzeta.pdb

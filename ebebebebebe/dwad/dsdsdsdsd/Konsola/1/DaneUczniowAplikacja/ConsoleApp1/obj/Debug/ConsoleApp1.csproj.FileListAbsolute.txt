@@ -1,0 +1,2 @@
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\1\DaneUczniowAplikacja\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\4TEP\Desktop\Maciej Dawid 4TEP\Konsola\1\DaneUczniowAplikacja\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

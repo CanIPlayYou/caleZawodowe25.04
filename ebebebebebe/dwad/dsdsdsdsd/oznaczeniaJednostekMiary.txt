@@ -1,0 +1,10 @@
+px (pixel) - oznacza rzeczywisty piksel na ekranie urzadzenia.
+
+in (inch) - 1 cal równy jest 2.54cm fizycznego rozmiaru ekranu.
+
+mm (milimetr) - 1 milimetr fizycznego rozmiaru ekranu.
+
+pt (point) - 1 punkt to 1/72 cala fizycznego rozmiaru ekranu.
+
+sip lub sp - oznacza to samo co dp, z tym co odnosi się do tekstów, czyli bierze pod uwage ustawienia rozmiaru tekstow zdefiniowane
+		w systemie przez uzytkownika

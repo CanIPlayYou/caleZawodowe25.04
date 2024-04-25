@@ -1,0 +1,18 @@
+1. Scharakteryzuj pojęcie zarządzania projektem
+
+   - Zarządzanie projektem – zbiór czynności wykonywanych w celu osiągnięcia wyznaczonych celów głównych i pośrednich w skończonym czasie. Obejmuje między innymi planowanie, harmonogramowanie, realizację, kontrolę i rozliczanie zadań składających się na realizację celów projektu.
+
+
+2. Wymień przynajmniej kilka zasad dobierania narzedzi do planowania i zarządzania projektem
+
+   - Metodyki projektowe są na tyle różnorodne, że podczas ich wyboru należy kierować się m.in. celem, potrzebami projektu, kulturą organizacyjną i możliwymi ryzykami w projekcie.
+
+
+3. Co oznacza sformułowanie - cykl życia produktu
+
+   - Inaczej rynkowy cykl życia produktu. Oznacza okres, w którym produkt jest dostępny na rynku. Na czas funkcjonowania danego produktu na rynku składa się kilka etapów: wprowadzenie na rynek, wzrost sprzedaży, dojrzałość rynkowa i spadek sprzedaży.
+
+
+4. Opisz krótko pojęcia SCRUM I Agile
+
+   - Agile w pewnym sensie jest filozofią, wytyczną. Mówi nam o tym, jak pracować nad złożonymi problemami, tak żeby ta praca przynosiła pożądane efekty. Scrum to ramy zarządzania projektami Agile, które pomagają zespołom strukturyzować swoją pracę i zarządzać nią za pomocą zestawu wartości, zasad i praktyk.

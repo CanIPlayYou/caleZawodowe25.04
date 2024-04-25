@@ -1,0 +1,10 @@
+val cSeekBar:SeekBar = findViewById(R.id.colorSeekBar)
+val colorTextView:TextView = findViewById(R.id.colorTextView)
+
+val color = Color.rgb(0, 128, 0)
+
+//cSeekBar.setOnSeekBarChangeListener()
+
+colorTextView.text = "Kolor: #${Integer.toHexString(color).substring(2)}"
+colorTextView.setTextColor(color)
+colorTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20F)
